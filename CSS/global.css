@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&family=Red+Hat+Display:ital,wght@0,500;0,900;1,700&display=swap');
+:root {
+    /* COLORS */
+    /* PRIMARY */
+    --gradient: hsl(6, 100%, 80%), hsl(335, 100%, 65%);
+
+    /* NEUTRAL */
+    --pale-blue: hsl(243, 100%, 93%);
+    --grayish-blue: hsl(229, 7%, 55%);
+    --dark-blue: hsl(228, 56%, 26%);
+    --very-dark-blue: hsl(229, 57%, 11%);
+
+    /* TIPOGRAPHY */
+    --raleway: 'Raleway', sans-serif;
+
+}
